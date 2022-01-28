@@ -76,5 +76,5 @@ public interface IToken {
 	//The delimiters should be removed and escape sequences replaced by the characters they represent.  
 	public String getStringValue();
 
-	
+//kjfhf if	
 }
